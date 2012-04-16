@@ -1,12 +1,12 @@
-RGG Levins
-=============
-The Levins model on random geometric graphs.
+RGG Metapop
+===========
+Some metapopulation models on random geometric graphs.
 
 Also a textbook example of preprocessor abuse :P
 
 license
 -------
-The well-known ``you-ow-me-a-green-tea-if-you-compile-it'' license.
+The well-known ``you-owe-me-a-green-tea-if-you-compile-it'' license.
 
 language
 --------
