@@ -1,6 +1,6 @@
-RGG Metapop
-===========
-Some metapopulation models on random geometric graphs.
+Spatial Levins
+==============
+The Levins models on random geometric networks [graphs].
 
 Also a textbook example of preprocessor abuse :P
 
